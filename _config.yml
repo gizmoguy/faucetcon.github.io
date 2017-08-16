@@ -67,17 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Faucet Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging." }
+ - {title: "Conference", image: "conference.jpg", text: "Two full-days of engaging and informative talks on Faucet and enterprise SDN." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops, hands-on experience, hacking and debugging." }
  - {title: "PlugFest", image: "hackathon.jpg", text: "Full-day PlugFest to demonstrate interoperability with Faucet." }
-
-# Statistic Block
-#statisticBlockImage: "statistic.jpg"
-#statisticBlock:
-# - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
-# - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
-# - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
-# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -112,12 +104,6 @@ venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
