@@ -4,7 +4,8 @@
   surname: "Cowie"
   company: "WAND Group, Waikato University"
   title: "Research Programmer"
-  bio: "Brad"
+  bio: "Brad builds open source production OpenFlow networks for various deployments. He comes from a systems background so puts a lot of effort into automating and monitoring these deployments."
+  thumbnailUrl: BradCowie.jpg
   rockstar: true
   ribbon:
     - {abbr: "Faucet Dev", title: "Faucet Developer", url: "https://github.com/REANNZ/faucet/graphs/contributors"}
