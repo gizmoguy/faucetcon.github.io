@@ -8,7 +8,7 @@
   thumbnailUrl: BradCowie.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Faucet Dev", title: "Faucet Developer", url: "https://github.com/REANNZ/faucet/graphs/contributors"}
+    - {abbr: "Faucet Developer", title: "Faucet Developer", url: "https://github.com/REANNZ/faucet/graphs/contributors"}
   social:
     - {name: "twitter", link: "https://twitter.com/nzgizmoguy"}
     - {name: "github", link: "https://github.com/gizmoguy"}
