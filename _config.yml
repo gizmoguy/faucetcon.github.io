@@ -44,7 +44,6 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/plugfest/", text: "PlugFest"}
 bottomNavigationLinks:
  - {link: "/#cfp", text: "Become a speaker"}
 rightNavigationButtons:
