@@ -96,15 +96,6 @@ eventPlaceCoordinates: "37.8759277, -122.2500274"
 mapCenterCoordinates: "37.8759277, -122.2500274"
 mapMobileCenterCoordinates: "37.8759277, -122.2500274"
 
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
