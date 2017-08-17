@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: "About FAUCET Conference"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Two full-days of engaging and informative talks on Faucet and enterprise SDN." }
- - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops, hands-on experience, hacking and debugging." }
- - {title: "PlugFest", image: "hackathon.jpg", text: "Full-day PlugFest to demonstrate interoperability with Faucet." }
+ - {title: "PlugFest", image: "hackathon.jpg", text: "Full-day PlugFest on Wednesday to demonstrate interoperability with Faucet." }
+ - {title: "Strategic & Operational Stream", image: "conference.jpg", text: "The focus will be on the operational advantages of SDN and FAUCET. This will feature a keynote presentation from Brad Cowie of The University of Waikato on their multi-vendor FAUCET deployment." }
+ - {title: "Technical & Development Stream", image: "workshop.jpg", text: "Examine some of the technical challenges of SDN development and how FAUCET is approaching them." }
 
 # Latest News Block
 latestNewsTitle: "Latest news"
