@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Faucet Conference 2017"
+title: "FAUCET Conference and FAUCET PlugFest 2017"
 email: "conference@faucet.nz"
 description: "Conference to talk about the Faucet OpenFlow Network controller"
 baseurl: "/"
@@ -21,8 +21,8 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "Faucet Foundation"
-organizerAlternateName: "Faucet Foundation"
+organizerName: "FAUCET Foundation"
+organizerAlternateName: "FAUCET Foundation"
 organizerDescription: ""
 organizerEmail: "foundation@faucet.org.nz"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Faucet Conference"
-eventDate: "October 19th-20th, 2017"
+heroTitle: "FAUCET Conference & FAUCET PlugFest"
+eventDate: "October 18th-20th, 2017"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
@@ -65,7 +65,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Faucet Conference"
+aboutTitle: "About FAUCET Conference"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Two full-days of engaging and informative talks on Faucet and enterprise SDN." }
  - {title: "Workshops", image: "workshop.jpg", text: "Half-day of workshops, hands-on experience, hacking and debugging." }
@@ -163,15 +163,11 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:conference@faucet.nz", text: "conference@faucet.nz"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "faucetcon"
 
 # Speakers List Block
 showSessions: true
