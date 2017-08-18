@@ -100,8 +100,8 @@ ticketsInfo: 'Tickets for both the main conference and plugfest are available fo
 ticketsOffers:
 
 # Accommodation Block
-accommodationTitle: "accommodation"
-accommodationInfo: 'There is an accommodation deal for the conference at the Berkeley Lab Guest House for attendees to use. Note that there is a limited number of rooms so book early. Booking details are available in our <a href="/assets/faucet_conference_plugfest_accommodation.pdf">conference accommodation booking pdf</a>.'
+accommodationTitle: "Accommodation"
+accommodationInfo: 'There is an accommodation deal for the conference at the Berkeley Lab Guest House. Note that there is a limited number of rooms so book early. Booking details are available in our <a href="/assets/faucet_conference_plugfest_accommodation.pdf">conference accommodation booking flyer</a>.'
 
 # Footer
 socialLinks:
