@@ -1,5 +1,6 @@
 - 
   group: "Organizers"
   elements: 
+    - {name: "Berkeley Lab", description: "Berkeley Lab", link: "https://www.lbl.gov", imageUrl: "Berkeley_Lab.svg"}
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
     - {name: "WAND", description: "WAND", link: "https://wand.nz", imageUrl: "wand.svg"}
