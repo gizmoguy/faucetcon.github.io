@@ -2,3 +2,4 @@
   group: "Organizers"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "WAND", description: "WAND", link: "https://wand.nz", imageUrl: "wand.svg"}
