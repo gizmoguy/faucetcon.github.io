@@ -38,7 +38,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
@@ -99,6 +98,10 @@ partnersTitle: "Partners"
 ticketsTitle: "Tickets"
 ticketsInfo: 'Tickets for both the main conference and plugfest are available for free on <a href="https://www.eventbrite.com/e/faucetcon-and-faucet-plugfest-fall-2017-registration-37054421773">EventBrite</a>.'
 ticketsOffers:
+
+# Accommodation Block
+accommodationTitle: "accommodation"
+accommodationInfo: 'There is an accommodation deal for the conference at the Berkeley Lab Guest House for attendees to use. Note that there is a limited number of rooms so book early. Booking details are available in our <a href="/assets/faucet_conference_plugfest_accommodation.pdf">conference accommodation booking pdf</a>.'
 
 # Footer
 socialLinks:
