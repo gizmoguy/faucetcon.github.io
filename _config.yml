@@ -56,7 +56,7 @@ typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
  - {link: "/#cfp", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
 aboutTitle: "About FAUCET Conference"
