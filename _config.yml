@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "FAUCET Conference and FAUCET PlugFest 2017"
 email: "conference@faucet.nz"
-description: "Conference to talk about the Faucet OpenFlow Network controller"
+description: "The first FAUCET conference and second FAUCET PlugFest will be held at Lawrence Berkeley National Laboratory from 18 to 20 October 2017. We will cover the operational advantages of SDN and FAUCET and examine some of the technical challenges of SDN development and how FAUCET is approaching them."
 baseurl: "/"
 url: "http://conference.faucet.nz"
 permalink: "/blog/:title"
