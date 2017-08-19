@@ -4,7 +4,7 @@ title:  "Registration Open"
 date:   2017-08-17 13:00:00
 isStaticPost: false
 ---
-The first FAUCET conference and (and second FAUCET PlugFest) will be held at Lawrence Berkeley National Laboratory from 18 to 20 October 2017.
+The first FAUCET conference and second FAUCET PlugFest will be held at Lawrence Berkeley National Laboratory from 18 to 20 October 2017.
 
 Presentations will be split into two main streams
 
