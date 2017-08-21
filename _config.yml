@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
 bottomNavigationLinks:
- - {link: "/#cfp", text: "Become a speaker"}
+ - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "/#cfp", text: "Become a speaker"}
+ - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
