@@ -55,7 +55,7 @@ eventDate: "October 18th-20th, 2017"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "/#cfp", text: "Become a speaker"}
+ - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
