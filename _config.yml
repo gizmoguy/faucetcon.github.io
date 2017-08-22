@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "mailto:conference@faucet.nz"
+c4pUrl: "mailto:cfp@faucet.nz"
 
 # Navigation
 navigationLinks:
@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
 bottomNavigationLinks:
- - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
+ - {link: "mailto:cfp@faucet.nz", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
+ - {link: "mailto:cfp@faucet.nz", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "October 18th-20th, 2017"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "mailto:conference@faucet.nz", text: "Become a speaker"}
+ - {link: "mailto:cfp@faucet.nz", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
