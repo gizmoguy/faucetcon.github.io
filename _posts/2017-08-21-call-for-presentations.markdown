@@ -16,7 +16,3 @@ Presentations will be split into two main streams, one per day:
 If you would like to give a presentation please submit your proposal to [cfp@faucet.nz](mailto:cfp@faucet.nz).
 
 We look forward to hearing from you!
-
-Kind Regards,
-
-FAUCET conference programme committee
